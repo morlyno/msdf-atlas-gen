@@ -23,3 +23,7 @@
 output.png
 out/
 /cmake-gen.bat
+bin
+bin-int
+msdf-atlas-gen.vcxproj
+**.vcxproj
